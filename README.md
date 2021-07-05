@@ -1,19 +1,8 @@
 
 
-This Repository Contain a details of Edurika PPT
--------------
-- ppt of Git
+This Repo Contain DevOps PPT:
+--------
 
-- ppt of Jenkins
+- This repo has ppt's of edurika.
+- This files Can't be shared with any one.
 
-- ppt of Docker
-	-- Continuous Deployment and Containerization with Docker
-	-- Containerization with Docker_ Ecosystem & Network
-
-- ppt of Kubernetes
-	-- Containerization using Kubernetes
-
-- ppt of Ansible
-
-- ppt of Nagios
-	-- Continuous Monitoring with Nagios
